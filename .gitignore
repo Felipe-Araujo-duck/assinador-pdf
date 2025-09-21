@@ -1,0 +1,8 @@
+# Certificado
+certificado.pfx
+
+# Documento assinado
+teste_assinado.pdf
+
+# Variáveis de ambiente
+.env
